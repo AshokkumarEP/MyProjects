@@ -8,5 +8,5 @@ git reset              - To remove all files from Staging Area
 git status             - To watch the modified files status
 git commit             - To add the files from Staging Area to master branch
 			 git commit -m "Comments"
-git clone	       - To work on remote repository
+git clone	       - Get remote repository to local directory
  
