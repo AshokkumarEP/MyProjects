@@ -1,0 +1,12 @@
+git config             - To configure the git repository
+git init	       - To create a git repository for the first time
+git add                - To add any new or modified files to the Staging Area
+git add -A	       - To add all the files from git repository to Staging Area
+git add <filename>     - To add specific file from git repository to Staging Area
+touch ignore
+git reset              - To remove all files from Staging Area
+git status             - To watch the modified files status
+git commit             - To add the files from Staging Area to master branch
+			 git commit -m "Comments"
+git clone	       - To work on remote repository
+ 
