@@ -7,6 +7,7 @@ touch ignore
 git reset              - To remove all files from Staging Area
 git status             - To watch the modified files status
 git commit             - To add the files from Staging Area to master branch
-			 git commit -m "Comments"
+			 Eg : git commit -m "Comments"
 git clone	       - Get remote repository to local directory
+			 Eg : get clone <src url> <current working folder>
  
